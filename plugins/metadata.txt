@@ -1,0 +1,15 @@
+[general]
+name=printscreen
+description=printscreen
+category=Analysis
+version=1.0
+qgisMinimumVersion=2.0
+
+author=toto
+email=foo@bar.com
+
+tags=analysis,processing
+
+homepage=http://qgis.org
+tracker=https://hub.qgis.org/projects/QGIS/issues
+repository=https://github.com/qgis/QGIS
